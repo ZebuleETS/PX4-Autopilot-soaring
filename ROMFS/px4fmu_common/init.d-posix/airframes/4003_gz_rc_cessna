@@ -38,7 +38,7 @@ param set-default FW_P_LIM_MIN -15
 
 param set-default FW_SPOILERS_LND 0.4
 
-param set-default FW_T_CLMB_MAX 10
+param set-default FW_T_CLMB_MAX 5
 param set-default FW_T_SINK_MAX 3.5
 param set-default FW_T_SINK_MIN 2
 param set-default FW_AIRSPD_MAX 30
