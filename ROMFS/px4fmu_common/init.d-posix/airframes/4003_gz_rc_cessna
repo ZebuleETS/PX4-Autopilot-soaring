@@ -42,7 +42,7 @@ param set-default FW_T_CLMB_MAX 5
 param set-default FW_T_SINK_MAX 3.5
 param set-default FW_T_SINK_MIN 2
 param set-default FW_AIRSPD_MAX 30
-param set-default FW_AIRSPD_Min 8
+param set-default FW_AIRSPD_MIN 8
 
 param set-default FW_WING_SPAN 2.8
 
